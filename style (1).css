@@ -18,7 +18,7 @@ section {
 /* Hero Section */
 #hero {
   height: 100vh;
-  background: url('images/hero-background.jpg') center center/cover no-repeat;
+  background: url('hero-background.jpg') center center/cover no-repeat;
   color: white;
   text-align: center;
   display: flex;
